@@ -9,8 +9,6 @@
 
 **_ Start the App_**
 
----
-
 - Download Android Studio
 - Install the Virtual Mobile with "google play"
 - Test it in the Emulator
